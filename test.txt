@@ -1,1 +1,2 @@
 this is test file
+and say hi for you.im testing git 
